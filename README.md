@@ -21,6 +21,6 @@
 
 ## Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introducing our SDKs for PHP and Laravel](https://dev4traders.com/php-sdk-for-mt4-api/)
+- [Introducing our MT4 SDKs for PHP and Laravel](https://dev4traders.com/php-sdk-for-mt4-api/)
 - [Funded – Panel for Prop Trading Firms](https://dev4traders.com/funded-panel-for-prop-trading-firms/)
 <!-- BLOG-POST-LIST:END -->
